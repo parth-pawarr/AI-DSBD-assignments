@@ -61,7 +61,7 @@ We strongly encourage users to:
 
 1.  Clone this repository:
     ```bash
-    git clone [YOUR-REPO-URL]
+    git clone "https://github.com/parth-pawarr/AI-DSBD-5thsem"
     ```
 2.  Navigate to the specific assignment folder (e.g., `P8_PCA_Manual`).
 3.  [cite_start]Ensure required datasets are downloaded (links often provided in the source syllabus [cite: 11]).
